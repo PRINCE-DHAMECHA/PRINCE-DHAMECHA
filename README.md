@@ -18,8 +18,8 @@
 - [Web Team Member (GDSC-DDU)](https://gdsc.community.dev/dharmsinh-desai-university-nadiad/) - (Sep'22-Present)
 - [Web Lead (DUHACKS2.0)](https://duhacks.tech/) - (Nov'22-Feb'23)
 
-![Price's github stats](https://github-readme-stats.vercel.app/api?username=PRINCE-DHAMECHA&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Price's github stats](https://github-readme-streak-stats.herokuapp.com/?user=PRINCE-DHAMECHA)&nbsp;&nbsp;
+![Price's github stats](https://github-readme-stats.vercel.app/api?username=PRINCE-DHAMECHA&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Prince's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PRINCE-DHAMECHA&layout=compact&langs_count=8&hide_border=true)
 <br />
 
