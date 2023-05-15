@@ -1,10 +1,10 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Prince Dhamecha!](https://www.linkedin.com/in/pmdhamecha/) 
 
 <a href="https://www.linkedin.com/in/pmdhamecha/">
-  <img align="left" width="24px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"](https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg)"  />
+  <img align="left" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 </a>
 <a href="https://twitter.com/pmdhamecha673">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 </a>
 
 <br />
