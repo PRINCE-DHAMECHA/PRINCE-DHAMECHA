@@ -6,9 +6,6 @@
 <a href="https://twitter.com/pmdhamecha673">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:pmdhamecha673@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
 
 <br />
 
@@ -22,6 +19,7 @@
 - [Web Lead (DUHACKS2.0)](https://duhacks.tech/) - (Nov'22-Feb'23)
 
 ![Price's github stats](https://github-readme-stats.vercel.app/api?username=PRINCE-DHAMECHA&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Price's github stats](https://github-readme-streak-stats.herokuapp.com/?user=PRINCE-DHAMECHA)&nbsp;&nbsp;
 ![Prince's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PRINCE-DHAMECHA&layout=compact&langs_count=8&hide_border=true)
 <br />
 
