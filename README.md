@@ -24,4 +24,4 @@
 <br />
 
 
-![visitors](http://visitor-badge.laobi.icu/badge?page_id=PRICE-DHAMECHA.PRINCE-DHAMECHA)
+![Visitors](https://komarev.com/ghpvc/?PRINCE-DHAMECHA)
