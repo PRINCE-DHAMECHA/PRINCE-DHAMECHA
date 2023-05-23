@@ -24,4 +24,4 @@
 <br />
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=PRICE-DHAMECHA.PRINCE-DHAMECHA)
+![visitors](http://visitor-badge.laobi.icu/badge?page_id=PRICE-DHAMECHA.PRINCE-DHAMECHA)
