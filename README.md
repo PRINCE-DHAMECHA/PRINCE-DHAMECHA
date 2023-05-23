@@ -24,4 +24,4 @@
 <br />
 
 
-![Visitors](https://komarev.com/ghpvc/?PRINCE-DHAMECHA)
+![Visitors](https://komarev.com/ghpvc/?username=PRINCE-DHAMECHA)
