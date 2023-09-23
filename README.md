@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , I'm [Prince Dhamecha!](https://www.linkedin.com/in/pmdhamecha/) 
+## Hey, I'm [Prince Dhamecha!](https://www.linkedin.com/in/pmdhamecha/) 
 
 <a href="https://www.linkedin.com/in/pmdhamecha/">
   <img align="left" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
